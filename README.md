@@ -32,7 +32,7 @@
   <a href="https://rajvardhansingh.in" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B35?style=for-the-badge&logo=About.me&logoColor=white&logoWidth=25&labelColor=CC5500" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/rajvardhan-singh" target="_blank">
+  <a href="https://linkedin.com/in/rajvardhan-singh-badgujar" target="_blank">
     <img src="https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=25&labelColor=004182" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/rajvardhan_s" target="_blank">
