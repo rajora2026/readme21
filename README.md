@@ -1,12 +1,4 @@
-<!-- ANIMATED GRADIENT HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30&height=180&section=header&text=Rajvardhan%20Singh&fontSize=50&fontAlignY=35&animation=fadeIn" width="100%" />
-</p>
 
-<!-- ANIMATED TYPING EFFECT -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=⚡+Cloud+%26+DevOps+Engineer+⚡;☁️+AWS+%7C+Docker+%7C+Kubernetes;🚀+CI%2FCD+%7C+Terraform+%7C+Linux;💻+Infrastructure+as+Code+Specialist;🌟+7%2B+Cloud+Projects+Deployed" alt="Typing Animation" />
-</h1>
 
 <!-- GLOWING BADGES -->
 <p align="center">
