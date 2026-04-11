@@ -211,7 +211,7 @@
         </p>
         <p>Complete real-world DevOps pipeline simulation with automated CI/CD workflows, containerized deployments, and scalable modular architecture. Demonstrates full lifecycle: <b>code → build → test → deploy</b>.</p>
         <p align="center">
-          <a href="https://github.com/RajvardhanSingh07/devops-accelerator" target="_blank">
+          <a href="https://github.com/singhrajvardhan/DevOps_Accelerator" target="_blank">
             <img src="https://img.shields.io/badge/🔗_View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>
         </p>
@@ -219,15 +219,15 @@
     </td>
     <td width="50%" valign="top">
       <div style="background: linear-gradient(135deg, #0F172A 0%, #1E1B4B 100%); border-radius: 20px; padding: 20px; margin: 10px;">
-        <h3 align="center" style="color: #00F7FF;">☁️ Multi-Cloud CI/CD Pipeline</h3>
+        <h3 align="center" style="color: #00F7FF;">☁️AWS EC2 + S3 Static Website Hosting</h3>
         <p align="center">
           <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
           <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
           <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
         </p>
-        <p>Automated pipelines triggered on every Git push for zero-touch delivery. Deploys applications seamlessly across Netlify, Vercel, and AWS environments simultaneously.</p>
+        <p>A beginner‑friendly cloud project demonstrating how to host a static website using Amazon EC2 as the web server and Amazon S3 to store and serve static assets (images/files).</p>
         <p align="center">
-          <a href="https://github.com/RajvardhanSingh07/multi-cloud-pipeline" target="_blank">
+          <a href="https://github.com/singhrajvardhan/aws-ec2-s3-static-website" target="_blank">
             <img src="https://img.shields.io/badge/🔗_View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>
           <a href="https://multi-cloud-demo.netlify.app" target="_blank">
@@ -248,7 +248,7 @@
         </p>
         <p>Self-hosted cloud system using Nextcloud on Linux server with secure file access, synchronization, and Nginx reverse proxy for containerized services.</p>
         <p align="center">
-          <a href="https://github.com/RajvardhanSingh07/private-cloud" target="_blank">
+          <a href="https://github.com/singhrajvardhan/personal-private-CLoud" target="_blank">
             <img src="https://img.shields.io/badge/🔗_View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>
         </p>
