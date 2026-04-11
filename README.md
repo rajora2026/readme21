@@ -90,8 +90,10 @@
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40" />
 </h2>
 
+<!-- SKILL ICONS -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,linux,nginx,git,vscode,py,js,html,css&perline=7" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,githubactions,ansible,grafana,prometheus,linux,nginx,git,python,selenium,pytest,html,css,js&perline=8" />
+</p>
 </p>
 
 <!-- DETAILED SKILLS TABLE -->
