@@ -263,7 +263,7 @@
         </p>
         <p>Automated infrastructure provisioning (VPC, subnets, security groups, EC2) using CloudFormation templates. Enables repeatable and version-controlled deployments.</p>
         <p align="center">
-          <a href="https://github.com/RajvardhanSingh07/terraform-aws-infra" target="_blank">
+          <a href="https://github.com/singhrajvardhan12/infra-as-code" target="_blank">
             <img src="https://img.shields.io/badge/🔗_View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>
         </p>
@@ -294,11 +294,11 @@
         </p>
         <p>Full-stack examination platform featuring automated proctoring through Face Detection, Tab-Monitoring, and real-time alerts via WebSockets.</p>
         <p align="center">
-          <a href="https://github.com/RajvardhanSingh07/secure-exam-platform" target="_blank">
+          <a href="https://github.com/singhrajvardhan/SecureExam-Platform" target="_blank">
             <img src="https://img.shields.io/badge/📂_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>
-          <a href="https://secure-exam-platform.vercel.app" target="_blank">
-            <img src="https://img.shields.io/badge/🚀_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+          <a href="https://examsystem.liveblog365.com/" target="_blank">
+            <img src="https://img.shields.io/badge/🚀_Live_Demo-000000?style=for-the-badge&logo=&logoColor=white" />
           </a>
         </p>
       </div>
@@ -313,7 +313,7 @@
         </p>
         <p>Heritage-focused digital archive featuring an interactive genealogy tree and integrated Google Maps API for location tracking.</p>
         <p align="center">
-          <a href="https://github.com/RajvardhanSingh07/thikana-dhabla" target="_blank">
+          <a href="https://github.com/singhrajvardhan/thikanadhablawebsitedeploy" target="_blank">
             <img src="https://img.shields.io/badge/📂_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>
           <a href="https://thikanadhabla.in" target="_blank">
@@ -398,16 +398,14 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/RajvardhanSingh07" target="_blank">
+  <a href="https://github.com/singhrajvardhan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=25" />
   </a>
-  <a href="https://linkedin.com/in/rajvardhan-singh" target="_blank">
+  <a href="https://linkedin.com/in/rajvardhan-singh-badgujar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=25" />
   </a>
-  <a href="https://twitter.com/rajvardhan_s" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=25" />
-  </a>
-  <a href="https://instagram.com/rajvardhan_singh" target="_blank">
+  
+  <a href="https://instagram.com/webbyraj" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=25" />
   </a>
   <a href="https://rajvardhansingh.in" target="_blank">
