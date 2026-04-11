@@ -1,4 +1,6 @@
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Rajvardhan+Singh;Cloud+%26+DevOps+Engineer;Automation+%7C+CI%2FCD+%7C+AWS,Azure;Infrastructure+as+Code+Expert"  alt="Typing SVG" />
+</h1>
 
 <!-- GLOWING BADGES -->
 <p align="center">
