@@ -26,7 +26,7 @@
 
 <!-- SOCIAL LINKS WITH HOVER EFFECTS -->
 <p align="center">
-  <a href="https://github.com/RajvardhanSingh07" target="_blank">
+  <a href="https://github.com/singhrajvardhan" target="_blank">
     <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=25" alt="GitHub" />
   </a>
   <a href="https://rajvardhansingh.in" target="_blank">
@@ -35,10 +35,8 @@
   <a href="https://linkedin.com/in/rajvardhan-singh-badgujar" target="_blank">
     <img src="https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=25&labelColor=004182" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/rajvardhan_s" target="_blank">
-    <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=25&labelColor=0D8BF0" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/rajvardhan_singh" target="_blank">
+
+  <a href="https://instagram.com/webbyraj" target="_blank">
     <img src="https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=25&labelColor=BC1888" alt="Instagram" />
   </a>
 </p>
@@ -97,42 +95,97 @@
 </p>
 
 <!-- DETAILED SKILLS TABLE -->
-<table align="center" width="90%" style="background: linear-gradient(135deg, #0F172A 0%, #1E1B4B 100%); border-radius: 20px;">
+<table align="center" width="95%" style="background: linear-gradient(135deg, #0F172A 0%, #1E1B4B 100%); border-radius: 20px;">
   <tr>
-    <td align="center" width="33%" style="padding: 20px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" />
-      <h3 style="color: #00F7FF;">☁️ Cloud Platforms</h3>
-      <p>AWS (EC2, S3, VPC, IAM, Lambda, RDS)<br/>Azure (Basic)</p>
+    <td align="center" style="padding: 15px;" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" />
+      <h3 style="color: #00F7FF;">☁️ AWS</h3>
+      <small>EC2, S3, VPC, Lambda, RDS, EKS</small>
     </td>
-    <td align="center" width="33%" style="padding: 20px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" />
-      <h3 style="color: #00F7FF;">⚙️ DevOps & Automation</h3>
-      <p>CI/CD Pipelines, GitHub Actions<br/>Docker, Kubernetes, Helm</p>
+    <td align="center" style="padding: 15px;" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="50" />
+      <h3 style="color: #00F7FF;">☁️ Azure</h3>
+      <small>AKS, Functions, DevOps, Monitor</small>
+    </td>
+    <td align="center" style="padding: 15px;" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" />
+      <h3 style="color: #00F7FF;">🐳 Docker</h3>
+      <small>Containers, Compose, Swarm</small>
+    </td>
+    <td align="center" style="padding: 15px;" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="50" />
+      <h3 style="color: #00F7FF;">☸️ Kubernetes</h3>
+      <small>EKS, AKS, Helm, Istio</small>
+    </td>
+   </tr>
+  <tr>
+    <td align="center" style="padding: 15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" width="50" />
+      <h3 style="color: #00F7FF;">🏗️ Terraform</h3>
+      <small>IaC, Modules, State Mgmt</small>
      </td>
-    <td align="center" width="33%" style="padding: 20px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" width="60" />
-      <h3 style="color: #00F7FF;">🏗️ Infrastructure as Code</h3>
-      <p>Terraform, AWS CloudFormation<br/>Version-controlled Deployments</p>
+    <td align="center" style="padding: 15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" />
+      <h3 style="color: #00F7FF;">🔁 Jenkins</h3>
+      <small>CI/CD, Pipelines, Shared Libs</small>
+     </td>
+    <td align="center" style="padding: 15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" width="50" />
+      <h3 style="color: #00F7FF;">📊 Grafana</h3>
+      <small>Dashboards, Loki, Tempo</small>
+     </td>
+    <td align="center" style="padding: 15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" width="50" />
+      <h3 style="color: #00F7FF;">📈 Prometheus</h3>
+      <small>Metrics, Alerts, Exporters</small>
      </td>
    </tr>
-   <tr>
-    <td align="center" style="padding: 20px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" />
-      <h3 style="color: #00F7FF;">📊 Monitoring & Systems</h3>
-      <p>Linux, Nginx, Grafana, Prometheus<br/>Server Configuration</p>
+  <tr>
+    <td align="center" style="padding: 15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" />
+      <h3 style="color: #00F7FF;">🐍 Python</h3>
+      <small>FastAPI, Django, Scripting</small>
      </td>
-    <td align="center" style="padding: 20px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60" />
-      <h3 style="color: #00F7FF;">🛠️ Development & Tools</h3>
-      <p>Git, GitHub, VS Code<br/>npm/yarn, Netlify, Vercel</p>
+    <td align="center" style="padding: 15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50" />
+      <h3 style="color: #00F7FF;">🧪 Selenium</h3>
+      <small>WebDriver, Automation, Testing</small>
      </td>
-    <td align="center" style="padding: 20px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" />
-      <h3 style="color: #00F7FF;">💻 Programming</h3>
-      <p>JavaScript (ES6+), Python<br/>HTML5, CSS3</p>
+    <td align="center" style="padding: 15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" width="50" />
+      <h3 style="color: #00F7FF;">✅ Pytest</h3>
+      <small>Unit Tests, Fixtures, Mocking</small>
+     </td>
+    <td align="center" style="padding: 15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
+      <h3 style="color: #00F7FF;">🐧 Linux</h3>
+      <small>Ubuntu, RHEL, Bash, Nginx</small>
+     </td>
+   </tr>
+  <tr>
+    <td align="center" style="padding: 15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="50" />
+      <h3 style="color: #00F7FF;">⚡ GitHub Actions</h3>
+      <small>CI/CD, Workflows, Runners</small>
+     </td>
+    <td align="center" style="padding: 15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" width="50" />
+      <h3 style="color: #00F7FF;">📦 Ansible</h3>
+      <small>Config Mgmt, Playbooks, AWX</small>
+     </td>
+    <td align="center" style="padding: 15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original-wordmark.svg" width="50" />
+      <h3 style="color: #00F7FF;">🚀 ArgoCD</h3>
+      <small>GitOps, CD, Sync Policies</small>
+     </td>
+    <td align="center" style="padding: 15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50" />
+      <h3 style="color: #00F7FF;">🔀 Git</h3>
+      <small>GitHub, GitLab, Bitbucket</small>
      </td>
    </tr>
 </table>
+
 
 <!-- ANIMATED DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
