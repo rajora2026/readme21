@@ -1,4 +1,4 @@
-# <!-- ANIMATED GRADIENT HEADER -->
+<!-- ANIMATED GRADIENT HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30&height=180&section=header&text=Rajvardhan%20Singh&fontSize=50&fontAlignY=35&animation=fadeIn" width="100%" />
 </p>
