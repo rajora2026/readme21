@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6366f1,100:8b5cf6&height=200&section=header&text=SmartExam&fontSize=70&fontColor=white&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=70&lines=SmartExam+%F0%9F%93%9A;AI-Proctored+Exam+System;Next-Gen+Proctoring+%F0%9F%A4%96" alt="Typing SVG" />
 
 # 🎓 AI-Proctored Online Exam System
 
